@@ -22,7 +22,7 @@
   "homepage": "https://github.com/speed-e/applitools-test#readme",
   "dependencies": {},
   "devDependencies": {
-    "@applitools/eyes-storybook": "^3.2.5",
+    "@applitools/eyes-storybook": "^3.63.10",
     "@babel/core": "^7.8.3",
     "@storybook/addon-actions": "^5.3.9",
     "@storybook/addon-links": "^5.3.9",
